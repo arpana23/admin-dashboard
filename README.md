@@ -3,6 +3,10 @@
 ## Live Demo
 https://admin-react-dashboard2.netlify.app/ 
 
+## 📸 Screenshot
+<img width="1887" height="921" alt="admin-dashboard" src="https://github.com/user-attachments/assets/2ef3f13d-44e7-4c3b-acbf-39994d6cca53" />
+
+
 ## 📌 Project Overview
 
 A modern and visually appealing E-Commerce Admin Dashboard UI built using React.js. This project focuses on creating a clean, organized, and user-friendly interface for managing and monitoring an online store.
