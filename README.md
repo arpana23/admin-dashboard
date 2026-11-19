@@ -1,3 +1,69 @@
+# E-Commerce Admin Dashboard UI
+
+## Live Demo
+https://admin-react-dashboard2.netlify.app/ 
+
+## 📌 Project Overview
+
+A modern and visually appealing E-Commerce Admin Dashboard UI built using React.js. This project focuses on creating a clean, organized, and user-friendly interface for managing and monitoring an online store.
+
+The dashboard provides a visual overview of business statistics, sales analytics, product information, and various administrative sections through an intuitive layout.
+
+## ✨ Features
+
+- **Dashboard Overview:** Displays summary cards for total users, orders, products, reviews, and sales.
+- **Sales Analytics:** Visual representation of sales data using a pie chart.
+- **Product Listing UI:** Displays product information in a structured table.
+- **Product Filters:** UI controls for filtering products by category, brand, and other criteria.
+- **Search Interface:** Search functionality UI for product discovery.
+- **Sidebar Navigation:** Organized navigation for Dashboard, Products, Orders, Messages, Notifications, and Settings.
+- **Modern UI Design:** Clean layout with colorful statistics cards, icons, and organized sections.
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Router
+- Chart Library (add the actual library used, if applicable)
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+https://github.com/arpana23/admin-dashboard.git 
+
+### Navigate to the Project
+
+```bash
+cd admin-dashboard
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run the Project
+
+```bash
+npm run dev
+```
+
+## 🎯 Project Objective
+
+The objective of this project was to practice React.js component development and create a modern administrative dashboard interface with reusable UI elements, structured layouts, navigation, and data visualization.
+
+## 👩‍💻 Author
+
+**Arpana Sinha**
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
