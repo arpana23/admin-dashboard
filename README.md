@@ -36,7 +36,7 @@ The dashboard provides a visual overview of business statistics, sales analytics
 
 ### Clone the Repository
 
-https://github.com/arpana23/admin-dashboard.git 
+`git clone https://github.com/arpana23/admin-dashboard.git`
 
 ### Navigate to the Project
 
